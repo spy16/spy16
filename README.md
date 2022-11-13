@@ -4,7 +4,11 @@ I am Shivaprasad Bhat. A Software Engineer (Since 2016) from India.
 
  ♥️ I love building interesting things. They may not always be useful or unique 😁. Feel free to checkout my repositories.
  
-👨‍💻 I am a self-taught polyglot programmer and can work in Go, Clojure & Python comfortably.
+👨‍💻 I am a self-taught polyglot engineer and can work in *Go, Clojure & Python* and *Svelte* (for front-end) comfortably.
+
+⚒️ I work with Kafka, Redis, PostgresQL, Clojure, Kubernetes and Docker on a daily basis.
+
+🏗️ I am currently trying to build SaaS products as a side-hustle (Ping me if you have ideas and need a developer 😋)
 
 🤯 Neuroscience (and anything about the 🧠) is another strong interest of mine.
 
@@ -12,4 +16,6 @@ I am Shivaprasad Bhat. A Software Engineer (Since 2016) from India.
 
 ✍️ I blog very rarely at <https://spy16.in>
 
-📡 [LinkedIn](https://www.linkedin.com/in/shivaprasadbhat/) | [E-mail](mailto:shiv.ylp@gmail.com)
+----
+
+📡 [LinkedIn](https://www.linkedin.com/in/shivaprasadbhat/) | [E-mail](mailto:shiv.ylp@gmail.com) | [Website](https://spy16.in)
