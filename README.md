@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Shivaprasad Bhat. A self-taught Software Engineer (Since 2016) from India.
+I am Shivaprasad Bhat. A Software Engineer (Since 2016) from India.
 
 -  ♥️ I love building interesting things. They may not always be useful or unique 😁. Feel free to checkout my repositories.
 - 👨‍💻 I use *Go/Clojure/Python* and *Svelte* (for front-end).
