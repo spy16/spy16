@@ -5,8 +5,7 @@ I am Shivaprasad Bhat. A Software Engineer (Since 2016) from India.
 -  ♥️ I love building interesting things. They may not always be useful or unique 😁. Feel free to checkout my repositories.
 - 👨‍💻 I use *Go/Clojure/Python* and *Svelte* (for front-end).
 - ⚒️ I work with Kafka, Redis, PostgresQL, Clojure, Kubernetes and Docker on a daily basis.
-- 🏗️ I am currently trying to build SaaS products as a side-hustle (Ping me if you have ideas and need a developer 😋)
-- 🤯 Neuroscience (and anything about the 🧠) is another strong interest of mine.
+- 🏗️ I also build SaaS tools in my free time - [QueryGenie](https://sqlgenie-co.web.app), [AvaBot](https://avabot.fly.dev), [DocuTalk (WIP)](https://docutalk.co)
 - 🤩 Apart from tech & brain things, I also watch a lot of movies & play a lot of **Arma 3** (King of the Hill mainly. Add [me on Steam](https://steamcommunity.com/id/phantom-actual/) if you know what I am [talking about](https://www.youtube.com/watch?v=kwxFrvE0bI4) ) 😎.
 - ✍️ I blog very rarely at <https://spy16.in>
 
